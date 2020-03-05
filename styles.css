@@ -1,0 +1,29 @@
+body {
+  background-image: url("background.jpg");
+       background-size:cover;
+}
+
+.center {
+  text-align: center;
+}
+.center2 {
+  text-align: center;
+ 
+}
+
+h1 {
+  color: #fa5211;
+}
+
+div {
+  color: #fa5211;
+}
+
+.blackbg
+{
+	background-color: #000000a1;
+	margin: 0vh 55vh 5vh;
+	padding: 45px;
+	border-radius: .5em;
+	text-align: center;
+}
